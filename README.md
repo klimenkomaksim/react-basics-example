@@ -6,6 +6,8 @@ Simple project with a few basic react concepts examples
 
 - Functional Components [(doc)](https://reactjs.org/docs/components-and-props.html#function-and-class-components)
 - Class Components [(doc)](https://reactjs.org/docs/components-and-props.html#function-and-class-components)
+- Conditional Rendering [(doc)](https://reactjs.org/docs/conditional-rendering.html)
+- Keys [(doc)](https://reactjs.org/docs/lists-and-keys.html)
 - Stateful Components [(article)](https://programmingwithmosh.com/javascript/stateful-stateless-components-react/)
 - Stateless Components [(article)](https://programmingwithmosh.com/javascript/stateful-stateless-components-react/)
 - Uncontrolled Forms [(doc)](https://reactjs.org/docs/uncontrolled-components.html)

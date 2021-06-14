@@ -1,5 +1,4 @@
-/* eslint-disable no-unused-vars */
-import React, { Component } from 'react';
+import { Component } from 'react';
 
 export default class FirstControlledForm extends Component {
     state = {
