@@ -32,7 +32,7 @@ export default class Lifecycle extends Component {
         );
     }
     
-    componentDidUpdate (prevProps, prevState) {
+    componentDidUpdate (prevProps, prevState, /* snapshot*/) {
         console.log(
             `[Lifecycle]
             componentDidUpdate method called,
